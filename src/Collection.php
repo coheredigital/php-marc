@@ -24,7 +24,7 @@ class Collection implements \Iterator
      *
      * @param File_MARCXML|File_MARC|null $parser
      */
-    public function __construct(File_MARCXML|File_MARC $parser = null)
+    public function __construct(File_MARCXML|File_MARC|null $parser = null)
     {
         $this->parser = $parser;
     }
