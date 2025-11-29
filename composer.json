@@ -1,5 +1,5 @@
 {
-    "name": "scriptotek/marc",
+    "name": "coheredigital/marc",
     "type": "library",
     "description": "Simple interface to parsing MARC records using File_MARC",
     "keywords": ["marc"],
